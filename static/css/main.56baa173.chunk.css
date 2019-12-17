@@ -1,0 +1,2 @@
+.flexContainer{display:flex;justify-content:center}button{box-shadow:2px 2px 5px rgba(0,0,0,.418)}button,button:hover{width:10vw;height:10vh;font-size:2vw;border-radius:20px;margin:13px;cursor:pointer;border:2px solid rgba(0,0,0,.658);font-family:Arial,Helvetica,sans-serif;-webkit-transition:.2s;transition:.2s}button:hover{box-shadow:none}p{font-size:8em;font-family:Arial,Helvetica,sans-serif;text-shadow:2px 2px 9px rgba(0,0,0,.486)}.positivButtons{background-color:#82f300}.negativButtons{background-color:#f38200}
+/*# sourceMappingURL=main.56baa173.chunk.css.map */

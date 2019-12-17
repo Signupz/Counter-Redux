@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//signupz.github.io/Counter-Redux/static/css/main.56baa173.chunk.css",
+    "main.js": "//signupz.github.io/Counter-Redux/static/js/main.da218347.chunk.js",
+    "main.js.map": "//signupz.github.io/Counter-Redux/static/js/main.da218347.chunk.js.map",
+    "runtime-main.js": "//signupz.github.io/Counter-Redux/static/js/runtime-main.a0a83cdf.js",
+    "runtime-main.js.map": "//signupz.github.io/Counter-Redux/static/js/runtime-main.a0a83cdf.js.map",
+    "static/js/2.d2dec7f4.chunk.js": "//signupz.github.io/Counter-Redux/static/js/2.d2dec7f4.chunk.js",
+    "static/js/2.d2dec7f4.chunk.js.map": "//signupz.github.io/Counter-Redux/static/js/2.d2dec7f4.chunk.js.map",
+    "index.html": "//signupz.github.io/Counter-Redux/index.html",
+    "precache-manifest.64ddd10c68cc39696bc8e68e23c8861f.js": "//signupz.github.io/Counter-Redux/precache-manifest.64ddd10c68cc39696bc8e68e23c8861f.js",
+    "service-worker.js": "//signupz.github.io/Counter-Redux/service-worker.js",
+    "static/css/main.56baa173.chunk.css.map": "//signupz.github.io/Counter-Redux/static/css/main.56baa173.chunk.css.map",
+    "static/js/2.d2dec7f4.chunk.js.LICENSE": "//signupz.github.io/Counter-Redux/static/js/2.d2dec7f4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0a83cdf.js",
+    "static/js/2.d2dec7f4.chunk.js",
+    "static/css/main.56baa173.chunk.css",
+    "static/js/main.da218347.chunk.js"
+  ]
+}
